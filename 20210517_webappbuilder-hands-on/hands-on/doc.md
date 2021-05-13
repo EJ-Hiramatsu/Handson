@@ -393,5 +393,6 @@ var layer = map.getLayer(this.layerId);
 ![バッファー検索設定](./img/selectLayer.png)
 
 
+
 3. マップ上の任意の地点をクリックします。バッファーが作成され、バッファー内のフィーチャがハイライト表示されます。  
 ![バッファー検索実行](./img/createBuffer.png)
