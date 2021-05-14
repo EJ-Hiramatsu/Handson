@@ -39,9 +39,9 @@ Web AppBuilder のインストール方法に関しては、[ArcGIS Web AppBuild
 
 ```js
 define({
-  root: {
+  root:({
     _widgetLabel: "Buffer"
-  },
+  }),
   "ja": 1
 });
 ```
